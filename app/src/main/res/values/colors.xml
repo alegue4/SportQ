@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="red">#FF0000</color>
+    <color name="purple_first">#6756BE</color>
+    <color name="purple_logo">#4e318b</color>
+    <color name="purple_second">#A7A1D8</color>
+    <color name="purple_third">#CBAED7</color>
+    <color name="purple_logo_third">#d5bfe6</color>
+    <color name="grey_separator">#585F65</color>
+    <color name="google_login_button">#eceff1</color>
+    <color name="google_login_text">#616161</color>
+    <color name="pink">#ED90AF</color>
+
+
+    <color name="primary">#9E6FD2</color>
+    <color name="on_primary">#FFFFFF</color>
+    <color name="primary_container">#E5D4EC</color>
+    <color name="on_primary_container">#4E318B</color>
+    <color name="secondary">#6C7186</color>
+    <color name="on_secondary">#FFFFFF</color>
+    <color name="secondary_container">#E5D4EC</color>
+    <color name="on_secondary_container">#1B1F3D</color>
+    <color name="tertiary">#A553B7</color>
+    <color name="on_tertiary">#FFFFFF</color>
+    <color name="tertiary_container">#F1BDF5</color>
+    <color name="on_tertiary_container">#222454</color>
+    <color name="error">#F25858</color>
+    <color name="on_error">#FFFFFF</color>
+    <color name="error_container">#E4B0B0</color>
+    <color name="on_error_container">#790F0F</color>
+
+
+</resources>

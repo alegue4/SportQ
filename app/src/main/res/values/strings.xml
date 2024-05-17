@@ -1,0 +1,66 @@
+<resources>
+    <string name="app_name" translatable="false">SportQ</string>
+    <string name="logo">Logo Application</string>
+    <string name="login" translatable="false">Login</string>
+    <string name="email" translatable="false">E-mail</string>
+    <string name="password" translatable="false">Password</string>
+    <string name="confirm_password">Confirm password</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="google_login">Login with Google</string>
+    <string name="new_account">New to SportQ?</string>
+    <string name="already_have_account">Already have an account?</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="profile">Profile</string>
+    <string name="search">Search</string>
+    <string name="home" translatable="false">Home</string>
+    <string name="error_data">Data are not correct</string>
+    <string name="error_email">Email is not correct</string>
+    <string name="new_password">New password</string>
+    <string name="account_first_name">First name</string>
+    <string name="account_last_name">Last name</string>
+    <string name="authentication_failed">Authentication failed</string>
+    <string name="authentication_correct">Authentication correct</string>
+    <string name="logout">Logout</string>
+    <string name="database_error">Database error</string>
+    <string name="avatar_description">Avatar Image</string>
+    <string name="delete_account">Delete Account</string>
+    <string name="error">Something went wrong</string>
+    <string name="close">Close</string>
+    <string name="zero_prenotations_history">There are 0 history prenotations...</string>
+    <string name="back_button" translatable="false">Back button</string>
+
+    <string name="error_password" translatable="false">Password should be at least 8 characters</string>
+    <string name="error_user_collision_message" translatable="false">The email address is already in use by another account</string>
+    <string name="unexpected_error" translatable="false">Unexpected error</string>
+    <string name="error_login_user_message" translatable="false">There is no user record corresponding to this identifier</string>
+    <string name="error_login_password_message" translatable="false">The password is invalid</string>
+
+    <string name="soccer">Soccer</string>
+    <string name="basket" translatable="false">Basket</string>
+    <string name="tennis" translatable="false">Tennis</string>
+    <string name="football" translatable="false">Football</string>
+    <string name="baseball" translatable="false">Baseball</string>
+    <string name="volleyball">Volleyball</string>
+    <string name="bowling" translatable="false">Bowling</string>
+    <string name="badminton" translatable="false">Badminton</string>
+    <string name="pool">Pool</string>
+
+    <string name="title_activity_maps" translatable="false">Current Place Details</string>
+    <string name="default_info_title" translatable="false">Default Location</string>
+    <string name="default_info_snippet" translatable="false">No places found, because location permission is disabled.</string>
+    <string name="option_get_place" translatable="false">Get place</string>
+    <string name="pick_place" translatable="false">Choose a place</string>
+    <string name="generate_map">Generate Map</string>
+    <string name="click_to_open_map">Click to open map</string>
+    <string name="add_favorite">Add Favorite</string>
+    <string name="added_favorite">Added to favorite list</string>
+    <string name="remove_favorite">Remove Favorite</string>
+    <string name="removed_favorite">Removed from favorite list</string>
+    <string name="delete_account_question">Are you sure about deleting your account?</string>
+    <string name="delete_account_message">Click \"Confirm\" to delete your account</string>
+    <string name="confirm">Confirm</string>
+    <string name="insert_email_reset_password">Insert email to reset password</string>
+    <string name="email_sent">Email sent for password reset</string>
+
+    <string name="developed_by" translatable="false">Developed by "Androidi_BG"</string>
+</resources>

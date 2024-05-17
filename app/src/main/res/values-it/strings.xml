@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="logo">Logo Applicazione</string>
+    <string name="forgot_password">Password dimenticata?</string>
+    <string name="google_login">Login con Google</string>
+    <string name="account_first_name">Nome</string>
+    <string name="account_last_name">Cognome</string>
+    <string name="new_password">Crea password</string>
+    <string name="confirm_password">Conferma password</string>
+    <string name="new_account">Nuovo a SportQ?</string>
+    <string name="already_have_account">Hai già un account?</string>
+    <string name="sign_up">Registrati</string>
+    <string name="profile">Profilo</string>
+    <string name="search">Ricerca</string>
+    <string name="error_data">I dati non sono corretti</string>
+    <string name="error_email">Email non corretta</string>
+    <string name="authentication_failed">Autenticazione fallita</string>
+    <string name="authentication_correct">Autenticazione corretta</string>
+    <string name="logout">Esci</string>
+    <string name="database_error">Errore database</string>
+    <string name="avatar_description">Immagine Avatar</string>
+    <string name="delete_account">Cancella Account</string>
+    <string name="error">Qualcosa è andato storto</string>
+    <string name="close">Chiudi</string>
+    <string name="zero_prenotations_history">Ci sono 0 prenotazioni nello storico...</string>
+    <string name="soccer">Calcio</string>
+    <string name="volleyball">Pallavolo</string>
+    <string name="pool">Biliardo</string>
+    <string name="generate_map">Genera Mappa</string>
+    <string name="click_to_open_map">Clicca per aprire la mappa</string>
+    <string name="add_favorite">Aggiungi a Preferiti</string>
+    <string name="delete_account_question">Sei sicuro di voler eliminare il tuo account?</string>
+    <string name="delete_account_message">Clicca \"Conferma\" per eliminare definitivamente l\'account</string>
+    <string name="insert_email_reset_password">Inserire l\'email per il reset della password</string>
+    <string name="confirm">Conferma</string>
+    <string name="email_sent">Email inviata per il reset della password</string>
+    <string name="added_favorite">Aggiunto alla lista Preferiti</string>
+    <string name="remove_favorite">Rimuovi dai Preferiti</string>
+    <string name="removed_favorite">Rimosso dalla lista Preferiti</string>
+
+</resources>
